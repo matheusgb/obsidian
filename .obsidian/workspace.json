@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "0a7610b186dfa027",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b202e2610b0e164",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d56594363ee0d419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internet/O que é HTTP/Sem título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63e6ce32add87c88",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a1137d55ae6d213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45f0bd2c299dbe5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "b985b5ecff9babbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Domain Name System (DNS)\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0aa276e7c1d65ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "right": {
+    "id": "2ce3e1785e6f10fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "898f5def3e9deb8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d9cbf5259f33250",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Internet/O que é HTTP/Sem título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4323d74ace96dfd1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Internet/O que é HTTP/Sem título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd3ccd0a862f3e38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5ff7ff2cfbc1123f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Internet/O que é HTTP/Sem título.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "45f0bd2c299dbe5c",
+  "lastOpenFiles": [
+    "Internet/O que é HTTP/Sem título.md",
+    "Internet/Como a internet funciona/Rede, internet e visão geral..md",
+    "Internet/O que é HTTP",
+    "Internet/Como a internet funciona/Aplicativos com TCP IP.md",
+    "Internet/Como a internet funciona/Proteção com SSL TLS.md",
+    "Internet/Como a internet funciona/Sobre HTTP e HTTPS.md",
+    "Internet/Como a internet funciona/Endereços e IP e nomes de domínio..md",
+    "Internet/Como a internet funciona/Papel dos protocolos na internet..md",
+    "Internet/Como a internet funciona/Terminologia e conceitos básicos..md",
+    "^^inter.md",
+    "Internet/Como a internet funciona",
+    "^.md",
+    "DNS.md",
+    "Internet",
+    "Internet 1.md",
+    "Sem título.canvas",
+    "2023-12-17.md"
+  ]
+}
