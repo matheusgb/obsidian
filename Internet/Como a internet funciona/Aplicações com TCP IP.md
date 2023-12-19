@@ -1,4 +1,4 @@
-Aplicativos com [[Rede, internet e visão geral.#^6106c9|TCP/IP]] utilizam alguns conceitos:
+Aplicações com [[Rede, internet e visão geral.#^6106c9|TCP/IP]] utilizam alguns conceitos:
 
 * Portas: cada aplicativo recebe um número de porta exclusivo, isso serve para identificar o aplicativo ou serviço em execução no dispositivo. Com isso, os dados são enviados para o destino certo.
 

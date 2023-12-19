@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d56594363ee0d419",
+            "id": "6caf5308e46fc550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet/O que é HTTP/Sem título.md",
+                "file": "Internet/O que é HTTP/Se aprofundando em HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f122ff41817e5364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internet/O que é HTTP/HTTP 0.9 - O One Liner (1991).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet/O que é HTTP/Sem título.md",
+                "file": "Internet/O que é HTTP/HTTP 0.9 - O One Liner (1991).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internet/O que é HTTP/Sem título.md",
+                "file": "Internet/O que é HTTP/HTTP 0.9 - O One Liner (1991).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internet/O que é HTTP/Sem título.md"
+                "file": "Internet/O que é HTTP/HTTP 0.9 - O One Liner (1991).md"
               }
             }
           }
@@ -146,24 +159,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "45f0bd2c299dbe5c",
+  "active": "f122ff41817e5364",
   "lastOpenFiles": [
-    "Internet/O que é HTTP/Sem título.md",
+    "Internet/O que é HTTP/Se aprofundando em HTTP.md",
+    "Internet/O que é HTTP/HTTP 0.9 - O One Liner (1991).md",
+    "Internet/Como a internet funciona/Aplicações com TCP IP.md",
+    "Internet/Como a internet funciona/Terminologia e conceitos básicos..md",
+    "Internet/Como a internet funciona/Sobre HTTP e HTTPS.md",
+    "2023-12-17.md",
+    "Internet/O que é HTTP/Sem título.canvas",
+    "Internet/Como a internet funciona/Proteção com SSL TLS.md",
+    "Internet/Como a internet funciona/Papel dos protocolos na internet..md",
+    "Internet/Como a internet funciona/Endereços e IP e nomes de domínio..md",
     "Internet/Como a internet funciona/Rede, internet e visão geral..md",
     "Internet/O que é HTTP",
-    "Internet/Como a internet funciona/Aplicativos com TCP IP.md",
-    "Internet/Como a internet funciona/Proteção com SSL TLS.md",
-    "Internet/Como a internet funciona/Sobre HTTP e HTTPS.md",
-    "Internet/Como a internet funciona/Endereços e IP e nomes de domínio..md",
-    "Internet/Como a internet funciona/Papel dos protocolos na internet..md",
-    "Internet/Como a internet funciona/Terminologia e conceitos básicos..md",
     "^^inter.md",
     "Internet/Como a internet funciona",
     "^.md",
     "DNS.md",
     "Internet",
-    "Internet 1.md",
-    "Sem título.canvas",
-    "2023-12-17.md"
+    "Internet 1.md"
   ]
 }
