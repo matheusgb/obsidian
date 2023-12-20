@@ -8,7 +8,7 @@
 
 **DNS:** responsável por traduzir nomes de domínio para endereço IP.  ^f7eb89
 
-**[[Se aprofundando em HTTP|HTTP]]:** usado para transferir dados de um cliente (navegador web) para um servidor e viceversa. ^59b812
+**[[1 - Se aprofundando em HTTP|HTTP]]:** usado para transferir dados de um cliente (navegador web) para um servidor e viceversa. ^59b812
 
 **HTTPS:** versão criptografada do HTTP que fornece comunicação segura entre cliente e servidor. ^7f801a
 
