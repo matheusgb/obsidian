@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a1375a6374f84e9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagens/Pasted image 20231228201158.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet/3 - Como os navegadores funcionam/2 - Renderização.md",
+                "file": "Imagens/Pasted image 20231228201158.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internet/3 - Como os navegadores funcionam/2 - Renderização.md",
+                "file": "Imagens/Pasted image 20231228201158.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internet/3 - Como os navegadores funcionam/2 - Renderização.md"
+                "file": "Imagens/Pasted image 20231228201158.png"
               }
             }
           }
@@ -146,10 +157,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cf672f97d0b1d250",
+  "active": "45f0bd2c299dbe5c",
   "lastOpenFiles": [
-    "Pasted image 20231228201216.png",
-    "Pasted image 20231228201158.png",
+    "Imagens/Pasted image 20231228201216.png",
+    "Imagens/Pasted image 20231228201158.png",
     "Imagens/Pasted image 20231228200500.png",
     "Internet/3 - Como os navegadores funcionam/1 - Funcionalidade.md",
     "Internet/3 - Como os navegadores funcionam/2 - Renderização.md",
