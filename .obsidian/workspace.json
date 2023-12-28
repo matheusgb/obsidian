@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de402225f5aee43e",
+            "id": "cf672f97d0b1d250",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet/O que é HTTP/7 - HTTP 2 - 2015.md",
+                "file": "Internet/3 - Como os navegadores funcionam/2 - Renderização.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet/O que é HTTP/7 - HTTP 2 - 2015.md",
+                "file": "Internet/3 - Como os navegadores funcionam/2 - Renderização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internet/O que é HTTP/7 - HTTP 2 - 2015.md",
+                "file": "Internet/3 - Como os navegadores funcionam/2 - Renderização.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internet/O que é HTTP/7 - HTTP 2 - 2015.md"
+                "file": "Internet/3 - Como os navegadores funcionam/2 - Renderização.md"
               }
             }
           }
@@ -146,33 +146,41 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "de402225f5aee43e",
+  "active": "cf672f97d0b1d250",
   "lastOpenFiles": [
-    "Internet/Como a internet funciona/1 - Rede, internet e visão geral..md",
-    "Internet/O que é HTTP/7 - HTTP 2 - 2015.md",
+    "Pasted image 20231228201216.png",
+    "Pasted image 20231228201158.png",
+    "Imagens/Pasted image 20231228200500.png",
+    "Internet/3 - Como os navegadores funcionam/1 - Funcionalidade.md",
+    "Internet/3 - Como os navegadores funcionam/2 - Renderização.md",
+    "Imagens/Pasted image 20231228194917.png",
+    "Internet/2 - O que é HTTP/1 - Se aprofundando em HTTP.md",
+    "Internet/1 - Como a internet funciona/0 - Terminologia e conceitos básicos..md",
+    "Internet/3 - Como os navegadores funcionam/99 - Referências.md",
+    "Internet/2 - O que é HTTP/99 - Referências.md",
+    "Internet/3 - Como os navegadores funcionam",
+    "Internet/1 - Como a internet funciona/99 - Referências.md",
+    "Internet/2 - O que é HTTP/7 - HTTP 2 - 2015.md",
+    "Internet/1 - Como a internet funciona/1 - Rede, internet e visão geral..md",
     "Imagens/Pasted image 20231219231114.png",
-    "Internet/O que é HTTP/6 - SPDY - 2009.md",
-    "Internet/O que é HTTP/99 - Referências.md",
-    "Internet/O que é HTTP/3 - HTTP 1.0 - 1996.md",
-    "Internet/O que é HTTP/4 - Three-way Handshake.md",
-    "Internet/O que é HTTP/5 - HTTP 1.1 - 1997.md",
-    "Internet/Como a internet funciona/99 - Referências.md",
-    "Internet/O que é HTTP/2 - HTTP 0.9 - O One Liner (1991).md",
-    "Internet/O que é HTTP/1 - Se aprofundando em HTTP.md",
-    "Internet/Como a internet funciona/6 - Proteção com SSL TLS.md",
-    "Internet/Como a internet funciona/5 - Aplicações com TCP IP.md",
-    "Internet/Como a internet funciona/4 - Sobre HTTP e HTTPS.md",
-    "Internet/Como a internet funciona/3 - Endereços e IP e nomes de domínio..md",
-    "Internet/Como a internet funciona/2 - Papel dos protocolos na internet..md",
-    "Internet/Como a internet funciona/0 - Terminologia e conceitos básicos..md",
+    "Internet/2 - O que é HTTP/6 - SPDY - 2009.md",
+    "Internet/2 - O que é HTTP/3 - HTTP 1.0 - 1996.md",
+    "Internet/2 - O que é HTTP/4 - Three-way Handshake.md",
+    "Internet/2 - O que é HTTP/5 - HTTP 1.1 - 1997.md",
+    "Internet/2 - O que é HTTP/2 - HTTP 0.9 - O One Liner (1991).md",
+    "Internet/1 - Como a internet funciona/6 - Proteção com SSL TLS.md",
+    "Internet/1 - Como a internet funciona/5 - Aplicações com TCP IP.md",
+    "Internet/1 - Como a internet funciona/4 - Sobre HTTP e HTTPS.md",
+    "Internet/1 - Como a internet funciona/3 - Endereços e IP e nomes de domínio..md",
+    "Internet/1 - Como a internet funciona/2 - Papel dos protocolos na internet..md",
     "Imagens",
     "Imagens/Pasted image 20231219222421.png",
     "^^TCP.md",
     "2023-12-17.md",
     "Internet/O que é HTTP/Sem título.canvas",
-    "Internet/O que é HTTP",
+    "Internet/2 - O que é HTTP",
     "^^inter.md",
-    "Internet/Como a internet funciona",
+    "Internet/1 - Como a internet funciona",
     "^.md",
     "DNS.md",
     "Internet",

@@ -1,0 +1,1 @@
+https://web.dev/articles/howbrowserswork?hl=pt-br
