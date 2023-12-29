@@ -4,21 +4,35 @@
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Internet/Como a internet funciona\"  ",
+      "query": "path:\"Internet/1 - Como a internet funciona\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14048348
       }
     },
     {
-      "query": "path:\"Internet/O que é HTTP\"  ",
+      "query": "path:\"Internet/2 - O que é HTTP\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"Internet/3 - Como os navegadores funcionam\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"2 - Golang\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.13168724279835495,
+  "scale": 0.13168724279835498,
   "close": false
 }

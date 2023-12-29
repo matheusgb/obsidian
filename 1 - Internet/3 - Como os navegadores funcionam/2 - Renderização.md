@@ -26,5 +26,3 @@ fluxo gecko 👆
 Nas figuras, é possível notar que, embora WebKit e Gecko usem terminologias diferentes, o fluxo é basicamente o mesmo.
 
 O Gecko chama a árvore de elementos formatados visualmente de "árvore de frames". Cada elemento é um frame. O WebKit usa o termo "Árvore de renderização" e consiste em "Objetos de renderização". O WebKit usa o termo "layout" para a colocação dos elementos, enquanto o Gecko o chama de "Reflow". "Anexo" é o termo do WebKit para conectar nós DOM e informações visuais para criar a árvore de renderização. Uma pequena diferença não semântica é que o Gecko tem uma camada extra entre o HTML e a árvore DOM. Ela é chamada de "coletor de conteúdo" e é uma fábrica para a criação de elementos DOM.
-
-continuar: https://web.dev/articles/howbrowserswork#parsing_-_general
