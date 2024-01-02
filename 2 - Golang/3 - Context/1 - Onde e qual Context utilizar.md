@@ -20,6 +20,8 @@ Um exemplo disso seria um package que tem uma API pública onde em futuras relea
 
 ### Context WithCancel
 
+^659e8e
+
 ```
 ctx, cancelFunc := context.WithCancel(context.Background())
 ```
@@ -34,6 +36,8 @@ Um exemplo de utilização, seria para lidar com grandes processamentos, onde o 
 
 ### Context WithDeadline
 
+^845e55
+
 ```
 ctx, cancelFunc := context.WithDeadline(context.Background(), time.Now().Add(5 * time.Second))
 ```
@@ -45,6 +49,8 @@ Um bom exemplo de utilização desse tipo de context, é para quando precisamos 
 
 
 ### Context WithTimeout
+
+^91be6f
 
 ```
 ctx, cancelFunc := context.WithTimeout(context.Background(), 5 * time.Second)

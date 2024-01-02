@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Golang/3 - Context/1 - Onde e qual Context utilizar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1a79ce423e7408b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2 - Golang/3 - Context/2 - Como implementar uma função utilizando context.md",
                 "mode": "source",
                 "source": false
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Golang/3 - Context/1 - Onde e qual Context utilizar.md",
+                "file": "2 - Golang/3 - Context/2 - Como implementar uma função utilizando context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Golang/3 - Context/1 - Onde e qual Context utilizar.md",
+                "file": "2 - Golang/3 - Context/2 - Como implementar uma função utilizando context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Golang/3 - Context/1 - Onde e qual Context utilizar.md"
+                "file": "2 - Golang/3 - Context/2 - Como implementar uma função utilizando context.md"
               }
             }
           }
@@ -160,14 +148,14 @@
   },
   "active": "f7d300d9bad39bf7",
   "lastOpenFiles": [
-    "2 - Golang/3 - Context/2 - Como implementar uma função utilizando context.md",
-    "2 - Golang/3 - Context/99 - Referências.md",
     "2 - Golang/3 - Context/1 - Onde e qual Context utilizar.md",
+    "2 - Golang/3 - Context/2 - Como implementar uma função utilizando context.md",
+    "2 - Golang/1 - Interfaces/2 - Embedding (herança).md",
+    "2 - Golang/1 - Interfaces/1 - Trabalhando com interfaces.md",
+    "2 - Golang/3 - Context/99 - Referências.md",
     "2 - Golang/2 - Goroutines/99 - Referências.md",
     "2 - Golang/2 - Goroutines",
-    "2 - Golang/1 - Interfaces/2 - Embedding (herança).md",
     "2 - Golang/3 - Context",
-    "2 - Golang/1 - Interfaces/1 - Trabalhando com interfaces.md",
     "2 - Golang/1 - Interfaces/99 - Referências.md",
     "2 - Golang/1 - Interfaces",
     "2 - Golang",
