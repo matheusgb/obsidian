@@ -3,7 +3,7 @@ Embora o Golang não implemente orientação a objetos, de forma superficial, su
 Exemplo:
 Vamos criar 3 [[1 - Trabalhando com interfaces|interfaces]]. _Writer_, _Reader_ e _Closer_.:
 
-```
+```go
 type Writer interface {
     Write(p []byte) (n int, err error)
 }
@@ -23,7 +23,7 @@ Agora, e se em determinado método eu precisar de uma struct que implemente o m�
 
 Para resolver o problema citado acima, e reaproveitar as interfaces que já foram declaradas, vamos criar uma nova interface que faça o embedding das interfaces **Writer** e _**Reader.**_
 
-```
+```go
 type ReadWriter interface {
     Reader
 	Writer
@@ -31,7 +31,7 @@ type ReadWriter interface {
 ```
 
 Exemplo de aplicação:
-```
+```go
 type Animal interface {
 	Onomatopeia() string
 }

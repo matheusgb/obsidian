@@ -2,14 +2,14 @@ No exemplo de chamada, será utilizado o context [[1 - Onde e qual Context utili
 
 Vamos iniciar criando uma função com o nome `doSomeHeavyWork`.
 
-```
+```go
 func doSomeHeavyWork(ctx context.Context, msg string) {
 }
 ```
 
 Para simular um processamento longo, vamos adicionar uma goroutine com um sleep de 2 segundos. Essa goroutine irá receber um channel do tipo bool. Ele irá sinalizar que a goroutine foi finalizada.
 
-```
+```go
 func doSomeHeavyWork(ctx context.Context, msg string) {
     c := make(chan bool)
 
@@ -27,7 +27,7 @@ Na struct `context.Context`, temos um método chamado `Done()`. Esse método r
 
 Como temos um channel de controle para o sleep e outro do context, precisamos adicionar um **select** para capturar o channel que foi acionado primeiro.
 
-```
+```go
 func doSomeHeavyWork(ctx context.Context, msg string) {
     c := make(chan bool)
 
@@ -47,7 +47,7 @@ func doSomeHeavyWork(ctx context.Context, msg string) {
 
 Para testar nossa função, vamos criar um context com timeout de 1 segundo.
 
-```
+```go
 func main() {
     ctx, _ := context.WithTimeout(context.Background(), time.Second*1)
 

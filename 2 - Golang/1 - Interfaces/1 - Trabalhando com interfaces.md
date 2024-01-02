@@ -1,6 +1,6 @@
 Exemplo de uso:
 
-```
+```go
 type Animal interface {
 	Onomatopeia() string
 }
@@ -26,7 +26,7 @@ func main() {
 ```
 
 outro exemplo um pouco mais elaborado:
-```
+```go
 package main
 
 import (

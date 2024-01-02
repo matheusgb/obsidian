@@ -1,6 +1,6 @@
 ### Background context
 
-```
+```go
 ctx := context.Background()
 ```
 Esse tipo de context não pode ser cancelado, ter valores ou deadline. No entanto ele pode ser passado para outras funções onde pode ser extendido para adicionar a habilidade de cancelamento, deadlines e valores.
@@ -10,7 +10,7 @@ Contexts vazios normalmente são utilizados na primeira camada da hierarquia de 
 
 ### TODO context
 
-```
+```go
 ctx := context.TODO()
 ```
 Embora essa função retorne EXATAMENTE o mesmo tipo de context que a função anterior, o TODO é utilizado quando não for claro qual tipo de context utilizar ou a utilização do context ainda não estiver disponível.
@@ -22,7 +22,7 @@ Um exemplo disso seria um package que tem uma API pública onde em futuras relea
 
 ^659e8e
 
-```
+```go
 ctx, cancelFunc := context.WithCancel(context.Background())
 ```
 Essa função retorna uma cópia do context que foi passado para ela com um novo channel no atributo `Done`, para controlar o cancelamento do context atual ou do seu context pai.
@@ -38,7 +38,7 @@ Um exemplo de utilização, seria para lidar com grandes processamentos, onde o 
 
 ^845e55
 
-```
+```go
 ctx, cancelFunc := context.WithDeadline(context.Background(), time.Now().Add(5 * time.Second))
 ```
 Similar ao context que vimos anteriormente, nesse caso também teremos o retorno de um novo context, tendo a base passada como context pai, e uma função para cancelamento.
@@ -52,11 +52,11 @@ Um bom exemplo de utilização desse tipo de context, é para quando precisamos 
 
 ^91be6f
 
-```
+```go
 ctx, cancelFunc := context.WithTimeout(context.Background(), 5 * time.Second)
 ```
 Se olharmos o código fonte do Go, veremos que esse tipo de context é literalmente um wrapper para simplificar a chamada do tipo anterior.
-```
+```go
 func WithTimeout(parent Context, timeout time.Duration) (Context, CancelFunc) {
     return WithDeadline(parent, time.Now().Add(timeout))
 }
@@ -66,7 +66,7 @@ func WithTimeout(parent Context, timeout time.Duration) (Context, CancelFunc) {
 
 ### Context WithValue
 
-```
+```go
 ctx := context.WithValue(context.Background(), "user_id", 4510)
 ```
 Nessa chamada, um novo context será retornado contendo a chave e valor informados. Assim como nos anteriores, a “base” passada ficará como context pai do que foi retornado.
