@@ -7,7 +7,7 @@ func doSomeHeavyWork(ctx context.Context, msg string) {
 }
 ```
 
-Para simular um processamento longo, vamos adicionar uma goroutine com um sleep de 2 segundos. Essa goroutine irá receber um channel do tipo bool. Ele irá sinalizar que a goroutine foi finalizada.
+Para simular um processamento longo, vamos adicionar uma goroutine com um sleep de 2 segundos. Essa [[1 - O que são e como funcionam as Goroutines|goroutine]] irá receber um channel do tipo bool. Ele irá sinalizar que a goroutine foi finalizada.
 
 ```go
 func doSomeHeavyWork(ctx context.Context, msg string) {
