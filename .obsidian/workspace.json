@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1a79ce423e7408b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Golang/3 - Context/2 - Como implementar uma função utilizando context.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -148,6 +160,7 @@
   },
   "active": "f7d300d9bad39bf7",
   "lastOpenFiles": [
+    "2 - Golang/3 - Context/2 - Como implementar uma função utilizando context.md",
     "2 - Golang/3 - Context/99 - Referências.md",
     "2 - Golang/3 - Context/1 - Onde e qual Context utilizar.md",
     "2 - Golang/2 - Goroutines/99 - Referências.md",
@@ -185,7 +198,6 @@
     "1 - Internet/1 - Como a internet funciona/2 - Papel dos protocolos na internet..md",
     "99 - Imagens",
     "99 - Imagens/Pasted image 20231219222421.png",
-    "^^TCP.md",
     "Internet/O que é HTTP/Sem título.canvas",
     "1 - Internet/2 - O que é HTTP",
     "1 - Internet/1 - Como a internet funciona",
