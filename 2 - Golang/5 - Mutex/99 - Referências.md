@@ -1,0 +1,1 @@
+https://aprendagolang.com.br/2022/07/20/mutex-ou-channels-como-resolver-race-condition/

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fd225f31a6360f4",
+            "id": "270f12f43a40ae23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Golang/4 - Channels/99 - Referências.md",
+                "file": "2 - Golang/5 - Mutex/1 - Mutex ou channels. Como resolver race condition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Golang/4 - Channels/99 - Referências.md",
+                "file": "2 - Golang/5 - Mutex/1 - Mutex ou channels. Como resolver race condition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Golang/4 - Channels/99 - Referências.md",
+                "file": "2 - Golang/5 - Mutex/1 - Mutex ou channels. Como resolver race condition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Golang/4 - Channels/99 - Referências.md"
+                "file": "2 - Golang/5 - Mutex/1 - Mutex ou channels. Como resolver race condition.md"
               }
             }
           }
@@ -146,11 +146,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5fd225f31a6360f4",
+  "active": "270f12f43a40ae23",
   "lastOpenFiles": [
+    "2 - Golang/5 - Mutex/99 - Referências.md",
+    "2 - Golang/5 - Mutex/1 - Mutex ou channels. Como resolver race condition.md",
+    "99 - Imagens/Pasted image 20240103222220.png",
+    "99 - Imagens/Pasted image 20240103222000.png",
+    "2 - Golang/4 - Channels/99 - Referências.md",
+    "2 - Golang/5 - Mutex",
     "2 - Golang/4 - Channels/3 - Múltiplos channels e a cláusula select.md",
     "2 - Golang/4 - Channels/2 - Buffer de mensagens em channels.md",
-    "2 - Golang/4 - Channels/99 - Referências.md",
     "2 - Golang/4 - Channels/1 - O que são e como utilizar channels.md",
     "2 - Golang/3 - Goroutines/1 - O que são e como funcionam as Goroutines.md",
     "2 - Golang/3 - Goroutines/99 - Referências.md",
@@ -172,9 +177,6 @@
     "1 - Internet/1 - Como a internet funciona/5 - Aplicações com TCP IP.md",
     "1 - Internet/1 - Como a internet funciona/4 - Sobre HTTP e HTTPS.md",
     "1 - Internet/1 - Como a internet funciona/3 - Endereços e IP e nomes de domínio..md",
-    "1 - Internet/1 - Como a internet funciona/2 - Papel dos protocolos na internet..md",
-    "1 - Internet/1 - Como a internet funciona/1 - Rede, internet e visão geral..md",
-    "1 - Internet/1 - Como a internet funciona/0 - Terminologia e conceitos básicos..md",
     "3 - Algoritmos/1 - Laços e Contagem de Operações",
     "3 - Algoritmos",
     "99 - Imagens/Pasted image 20240102164513.png",
@@ -191,7 +193,6 @@
     "99 - Imagens/Pasted image 20231219231114.png",
     "99 - Imagens",
     "99 - Imagens/Pasted image 20231219222421.png",
-    "Internet/O que é HTTP/Sem título.canvas",
-    "1 - Internet/2 - O que é HTTP"
+    "Internet/O que é HTTP/Sem título.canvas"
   ]
 }
