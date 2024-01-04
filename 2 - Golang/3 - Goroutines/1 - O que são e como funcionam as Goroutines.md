@@ -1,10 +1,10 @@
-Goroutines são funções ou métodos executados em [[0 - A diferença entre concorrência e paralelismo#^cd219e|concorrência]]. Podemos pensar nelas como uma especie de lightweight thread que são gerenciadas pelo runtime do Go.
+Goroutines são funções ou métodos executados em [[0 - A diferença entre concorrência e paralelismo#^cd219e|concorrência]]. Podemos pensar nelas como uma espécie de lightweight thread que são gerenciadas pelo runtime do Go. ^165c0f
 
 Chamamos de lightweight thread pois o custo para sua criação é muito menor quando comparada com um thread de verdade. Outro ponto positivo é que o runtime consegue aumentar ou diminuir a quantidade de goroutines de acordo com a necessidade da aplicação, enquanto o número de thread normalmente é fixo.
 
 É comum uma única thread conter milhares de goroutines sendo executadas. Caso alguma dessas goroutines bloqueie a execução das outras por estar aguardando algum tipo de input do usuário, por exemplo, o runtime do Go irá criar uma nova thread e mover as outras goroutines para essa thread.
 
-Goroutines rodam no mesmo espaço de memória, o que facilita para compartilhar objetos em memória, mas também devemos tomar cuidado para manter sincronizado. Os channels ajudam nesse processo de comunicação entre goroutines, além de evitar race condition.
+Goroutines rodam no mesmo espaço de memória, o que facilita para compartilhar objetos em memória, mas também devemos tomar cuidado para manter sincronizado. Os [[1 - O que são e como utilizar channels|channels]] ajudam nesse processo de comunicação entre goroutines, além de evitar race condition.
 
 Sempre que queremos iniciar uma nova goroutine, tudo o que precisamos fazer é adicionar a palavra `go` antes da chamada da função/método.
 
@@ -37,13 +37,12 @@ eu sou a goroutine principal
 
  Após a nova goroutine ser iniciada, o programa já executa a próxima linha, que no nosso caso é o `fmt.Println("eu sou a goroutine principal")` .
 
-Para fazer um “fix” no nosso código, vamos adicionar um `time.Sleep(time.Second * 1)` logo após o `fmt` da função main.
+Para fazer um “fix” no nosso código, vamos adicionar um `time.Sleep(time.Second * 1)` logo após o `fmt` da função main. ^fbe0e4
 
 Agora sim conseguimos ver a execução da goroutine acontecendo.
 
 A mudança foi chamada de “fix” pois essa definitivamente não é a forma ideal de se esperar a execução de uma goroutine. Para isso existem os channels.
 
-Outro exemplo:
 ```go
 package main
 

@@ -1,4 +1,4 @@
-_Concorrência_ não é _paralelismo_. _Paralelismo_ é quando duas ou mais _threads_ executam o código simultaneamente através de diferentes cores do processador. ^cd219e
+_Concorrência_ não é _paralelismo_. _Paralelismo_ é quando duas ou mais [[4 - Quais as diferenças entre goroutines e threads#^bda1bb|threads]] executam o código simultaneamente através de diferentes cores do processador. ^cd219e
 
 Concorrência executa o código _concorrentemente_ entre _threads_ em um único core do processador.
 

@@ -3,7 +3,7 @@
 ```go
 ctx := context.Background()
 ```
-Esse tipo de context não pode ser cancelado, ter valores ou deadline. No entanto ele pode ser passado para outras funções onde pode ser extendido para adicionar a habilidade de cancelamento, deadlines e valores.
+Esse tipo de context não pode ser cancelado, ter valores ou deadline. No entanto ele pode ser passado para outras funções onde pode ser estendido para adicionar a habilidade de cancelamento, deadlines e valores.
 
 Contexts vazios normalmente são utilizados na primeira camada da hierarquia de funções que utilizam context ou em testes.
 
