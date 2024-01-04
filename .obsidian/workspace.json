@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Golang/4 - Channels/3 - Múltiplos channels e a cláusula select.md",
+                "file": "2 - Golang/4 - Channels/99 - Referências.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Golang/4 - Channels/3 - Múltiplos channels e a cláusula select.md",
+                "file": "2 - Golang/4 - Channels/99 - Referências.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Golang/4 - Channels/3 - Múltiplos channels e a cláusula select.md",
+                "file": "2 - Golang/4 - Channels/99 - Referências.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Golang/4 - Channels/3 - Múltiplos channels e a cláusula select.md"
+                "file": "2 - Golang/4 - Channels/99 - Referências.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "5fd225f31a6360f4",
   "lastOpenFiles": [
-    "2 - Golang/4 - Channels/2 - Buffer de mensagens em channels.md",
     "2 - Golang/4 - Channels/3 - Múltiplos channels e a cláusula select.md",
+    "2 - Golang/4 - Channels/2 - Buffer de mensagens em channels.md",
     "2 - Golang/4 - Channels/99 - Referências.md",
     "2 - Golang/4 - Channels/1 - O que são e como utilizar channels.md",
     "2 - Golang/3 - Goroutines/1 - O que são e como funcionam as Goroutines.md",
