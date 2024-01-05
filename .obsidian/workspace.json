@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "270f12f43a40ae23",
+            "id": "4c9d4f3ea40ae083",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Golang/5 - Mutex/1 - Mutex ou channels. Como resolver race condition.md",
+                "file": "3 - Algoritmos/1 - Laços e Contagem de Operações/1 - Análise de eficiência.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Golang/5 - Mutex/1 - Mutex ou channels. Como resolver race condition.md",
+                "file": "3 - Algoritmos/1 - Laços e Contagem de Operações/1 - Análise de eficiência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Golang/5 - Mutex/1 - Mutex ou channels. Como resolver race condition.md",
+                "file": "3 - Algoritmos/1 - Laços e Contagem de Operações/1 - Análise de eficiência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Golang/5 - Mutex/1 - Mutex ou channels. Como resolver race condition.md"
+                "file": "3 - Algoritmos/1 - Laços e Contagem de Operações/1 - Análise de eficiência.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "270f12f43a40ae23",
+  "active": "45f0bd2c299dbe5c",
   "lastOpenFiles": [
-    "2 - Golang/5 - Mutex/99 - Referências.md",
+    "99 - Imagens/Pasted image 20240104221151.png",
+    "3 - Algoritmos/1 - Laços e Contagem de Operações/99 - Referências.md",
+    "3 - Algoritmos/1 - Laços e Contagem de Operações/1 - Análise de eficiência.md",
     "2 - Golang/5 - Mutex/1 - Mutex ou channels. Como resolver race condition.md",
+    "2 - Golang/5 - Mutex/99 - Referências.md",
     "99 - Imagens/Pasted image 20240103222220.png",
     "99 - Imagens/Pasted image 20240103222000.png",
     "2 - Golang/4 - Channels/99 - Referências.md",
@@ -175,8 +178,6 @@
     "1 - Internet/2 - O que é HTTP/2 - HTTP 0.9 - O One Liner (1991).md",
     "1 - Internet/1 - Como a internet funciona/6 - Proteção com SSL TLS.md",
     "1 - Internet/1 - Como a internet funciona/5 - Aplicações com TCP IP.md",
-    "1 - Internet/1 - Como a internet funciona/4 - Sobre HTTP e HTTPS.md",
-    "1 - Internet/1 - Como a internet funciona/3 - Endereços e IP e nomes de domínio..md",
     "3 - Algoritmos/1 - Laços e Contagem de Operações",
     "3 - Algoritmos",
     "99 - Imagens/Pasted image 20240102164513.png",
