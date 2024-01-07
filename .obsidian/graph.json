@@ -8,28 +8,28 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Internet/1 - Como a internet funciona\"  ",
+      "query": "path:\"1 - Internet\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:\"Internet/2 - O que é HTTP\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:\"Internet/3 - Como os navegadores funcionam\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
       "query": "path:\"2 - Golang\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6054102
+      }
+    },
+    {
+      "query": "path:\"3 - Algoritmos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13524182
+      }
+    },
+    {
+      "query": "path:\"4 - Banco de dados relacional\"  ",
       "color": {
         "a": 1,
         "rgb": 6084188
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 500,
   "scale": 0.09392927902847065,
-  "close": false
+  "close": true
 }
