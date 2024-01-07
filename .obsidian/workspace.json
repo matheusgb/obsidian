@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - API's/1 - graphQL/1 - O que é graphQL.md",
+                "file": "3 - Algoritmos/1 - Laços e Contagem de Operações/1 - Análise de eficiência.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - API's/1 - graphQL/1 - O que é graphQL.md",
+                "file": "3 - Algoritmos/1 - Laços e Contagem de Operações/1 - Análise de eficiência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - API's/1 - graphQL/1 - O que é graphQL.md",
+                "file": "3 - Algoritmos/1 - Laços e Contagem de Operações/1 - Análise de eficiência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - API's/1 - graphQL/1 - O que é graphQL.md"
+                "file": "3 - Algoritmos/1 - Laços e Contagem de Operações/1 - Análise de eficiência.md"
               }
             }
           }
@@ -146,13 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "45f0bd2c299dbe5c",
+  "active": "5650d0fa665ce9dd",
   "lastOpenFiles": [
-    "5 - API's/1 - graphQL/99 - Referências.md",
-    "5 - API's/1 - graphQL/1 - O que é graphQL.md",
+    "6 - API's/1 - graphQL/1 - O que é graphQL.md",
+    "5 - Software design e arquitetura/3 - Domain-Driven Design",
+    "5 - Software design e arquitetura/2 - Clean Architecture",
+    "5 - Software design e arquitetura/1 - SOLID",
+    "5 - Software design e arquitetura",
+    "6 - API's/1 - graphQL/99 - Referências.md",
     "4 - Banco de dados relacional/1 - Introdução/1 - Inicio e relacionamentos.md",
-    "5 - API's/1 - graphQL",
-    "5 - API's",
+    "6 - API's/1 - graphQL",
+    "6 - API's",
     "4 - Banco de dados relacional/1 - Introdução/99 - Referências.md",
     "99 - Imagens/Pasted image 20240107143211.png",
     "99 - Imagens/Pasted image 20240107142840.png",
@@ -185,13 +189,8 @@
     "1 - Internet/2 - O que é HTTP/6 - SPDY - 2009.md",
     "1 - Internet/2 - O que é HTTP/5 - HTTP 1.1 - 1997.md",
     "1 - Internet/2 - O que é HTTP/4 - Three-way Handshake.md",
-    "1 - Internet/2 - O que é HTTP/3 - HTTP 1.0 - 1996.md",
-    "3 - Algoritmos/1 - Laços e Contagem de Operações",
-    "3 - Algoritmos",
     "99 - Imagens/Pasted image 20240102164513.png",
     "99 - Imagens/Pasted image 20240102164422.png",
-    "2 - Golang/3 - Goroutines",
-    "2 - Golang/2 - Context",
     "99 - Imagens/Pasted image 20231228201216.png",
     "99 - Imagens/Pasted image 20231228201158.png",
     "Internet/O que é HTTP/Sem título.canvas"
