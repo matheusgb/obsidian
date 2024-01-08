@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 6084188
       }
+    },
+    {
+      "query": "path:\"5 - Software design e arquitetura\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 64511
+      }
+    },
+    {
+      "query": "path:\"6 - API's\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14810880
+      }
     }
   ],
   "collapse-display": false,

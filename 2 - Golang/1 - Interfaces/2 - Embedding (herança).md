@@ -67,6 +67,7 @@ func (t Tucano) SomAmbiente() string {
 
 func Play(animal AnimalLugar) {
 	fmt.Println(animal.Onomatopeia())
+	fmt.Println(animal.SomAmbiente())
 }
 
 func main() {
