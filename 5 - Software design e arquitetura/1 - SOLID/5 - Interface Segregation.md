@@ -1,4 +1,4 @@
-Vamos relembrar o que diz o conceito de [[1 - O que é SOLID#^2cd042|Interface Segregation]].
+Definição de [[1 - O que é SOLID#^2cd042|Interface Segregation]].
 
 > 💡 Uma classe não deve ser obrigada a implementar interfaces e métodos que não utilizará. Em outras palavras, é melhor ter 6 interfaces bem específicas, do que 2 mais genéricas.
 

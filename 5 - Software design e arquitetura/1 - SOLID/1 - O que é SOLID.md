@@ -56,6 +56,6 @@ Onde a terceira nada mais é do que um embedding das duas primeiras.
 
 Dependências devem ser abstraídas, para que os módulos de alto nível não dependam dos módulos de baixo nível.
 
-> 🚨 ATENÇÃO! **Dependency Inversion** e **Dependency Injection** são coisas distintas.
+> 🚨 ATENÇÃO! [[6 - Dependency Inversion|Dependency Inversion]] e [[6 - Dependency Inversion#^d80039|Dependency Injection]] são coisas distintas.
 
 Uma forma de implementar esse conceito, é utilizar interfaces para definir atributos de structs e parâmetros de funções. Assim, ao invés de esperar um tipo concreto, ou seja, altamente acoplado, esperamos qualquer tipo que implemente a interface.

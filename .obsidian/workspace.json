@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1570e9ce8eda98bb",
+        "id": "f9d5d95b0956c590",
         "type": "tabs",
         "children": [
           {
-            "id": "6bfe12cd1e6df8e9",
+            "id": "c8d6b239fc00723f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Software design e arquitetura/1 - SOLID/3 - Como Interface Segregation é aplicada no Go.md",
+                "file": "5 - Software design e arquitetura/1 - SOLID/99 - Referências.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Software design e arquitetura/1 - SOLID/3 - Como Interface Segregation é aplicada no Go.md",
+                "file": "5 - Software design e arquitetura/1 - SOLID/99 - Referências.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Software design e arquitetura/1 - SOLID/3 - Como Interface Segregation é aplicada no Go.md",
+                "file": "5 - Software design e arquitetura/1 - SOLID/99 - Referências.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Software design e arquitetura/1 - SOLID/3 - Como Interface Segregation é aplicada no Go.md"
+                "file": "5 - Software design e arquitetura/1 - SOLID/99 - Referências.md"
               }
             }
           }
@@ -146,14 +146,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6bfe12cd1e6df8e9",
+  "active": "c8d6b239fc00723f",
   "lastOpenFiles": [
-    "5 - Software design e arquitetura/1 - SOLID/99 - Referências.md",
-    "5 - Software design e arquitetura/1 - SOLID/3 - Como Interface Segregation é aplicada no Go.md",
-    "2 - Golang/1 - Interfaces/2 - Embedding (herança).md",
-    "5 - Software design e arquitetura/1 - SOLID/2 - Como aplicar Single Responsibility.md",
-    "2 - Golang/1 - Interfaces/1 - Trabalhando com interfaces.md",
     "5 - Software design e arquitetura/1 - SOLID/1 - O que é SOLID.md",
+    "5 - Software design e arquitetura/1 - SOLID/2 - Single Responsibility.md",
+    "5 - Software design e arquitetura/1 - SOLID/6 - Dependency Inversion.md",
+    "5 - Software design e arquitetura/1 - SOLID/99 - Referências.md",
+    "2 - Golang/5 - Mutex/1 - Mutex ou channels. Como resolver race condition.md",
+    "5 - Software design e arquitetura/1 - SOLID/3 - Open-Closed.md",
+    "4 - Banco de dados relacional/1 - Introdução/1 - Inicio e relacionamentos.md",
+    "1 - Internet/2 - O que é HTTP/1 - Se aprofundando em HTTP.md",
+    "5 - Software design e arquitetura/1 - SOLID/4 - Liskov Substitution.md",
+    "5 - Software design e arquitetura/1 - SOLID/5 - Interface Segregation.md",
+    "2 - Golang/1 - Interfaces/2 - Embedding (herança).md",
+    "2 - Golang/1 - Interfaces/1 - Trabalhando com interfaces.md",
     "3 - Algoritmos/1 - Laços e Contagem de Operações/1 - Análise de eficiência.md",
     "6 - API's/1 - graphQL/1 - O que é graphQL.md",
     "5 - Software design e arquitetura/3 - Domain-Driven Design",
@@ -161,7 +167,6 @@
     "5 - Software design e arquitetura/1 - SOLID",
     "5 - Software design e arquitetura",
     "6 - API's/1 - graphQL/99 - Referências.md",
-    "4 - Banco de dados relacional/1 - Introdução/1 - Inicio e relacionamentos.md",
     "6 - API's/1 - graphQL",
     "6 - API's",
     "4 - Banco de dados relacional/1 - Introdução/99 - Referências.md",
@@ -172,7 +177,6 @@
     "4 - Banco de dados relacional",
     "99 - Imagens/Pasted image 20240104221151.png",
     "3 - Algoritmos/1 - Laços e Contagem de Operações/99 - Referências.md",
-    "2 - Golang/5 - Mutex/1 - Mutex ou channels. Como resolver race condition.md",
     "2 - Golang/5 - Mutex/99 - Referências.md",
     "99 - Imagens/Pasted image 20240103222220.png",
     "99 - Imagens/Pasted image 20240103222000.png",
@@ -185,11 +189,7 @@
     "2 - Golang/3 - Goroutines/99 - Referências.md",
     "2 - Golang/3 - Goroutines/4 - Quais as diferenças entre goroutines e threads.md",
     "2 - Golang/3 - Goroutines/3 - Aguardando execução de múltiplas goroutines.md",
-    "2 - Golang/3 - Goroutines/2 - Quando utilizar goroutines.md",
-    "2 - Golang/3 - Goroutines/0 - A diferença entre concorrência e paralelismo.md",
     "2 - Golang/4 - Channels",
-    "1 - Internet/2 - O que é HTTP/1 - Se aprofundando em HTTP.md",
-    "1 - Internet/2 - O que é HTTP/99 - Referências.md",
     "99 - Imagens/Pasted image 20240102164513.png",
     "99 - Imagens/Pasted image 20240102164422.png",
     "99 - Imagens/Pasted image 20231228201216.png",

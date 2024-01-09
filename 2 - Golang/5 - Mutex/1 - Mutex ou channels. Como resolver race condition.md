@@ -1,4 +1,4 @@
-O termo race condition é utilizado para descrever um pedaço do código que será executado por múltiplas goroutines e que, a cada execução, seu resultado pode variar devido a forma como o Go alterna a execução entre goroutines.
+O termo race condition é utilizado para descrever um pedaço do código que será executado por múltiplas goroutines e que, a cada execução, seu resultado pode variar devido a forma como o Go alterna a execução entre [[1 - O que são e como funcionam as Goroutines|goroutines]].
 
 ```go
 package main
